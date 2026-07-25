@@ -18,7 +18,9 @@ apt install whois
 // pip install requests
 
 ## how to run
-python3 recon_tool.py example.com
+python3 recon.py example.com
+python3 recon.py user@example.com
+python3 recon.py 8.8.8.8
 
 ## note
 only use this on targets you have permission to test
