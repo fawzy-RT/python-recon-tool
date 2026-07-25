@@ -19,7 +19,9 @@ apt install whois
 
 ## how to run
 python3 recon.py example.com
+
 python3 recon.py user@example.com
+
 python3 recon.py 8.8.8.8
 
 ## note
